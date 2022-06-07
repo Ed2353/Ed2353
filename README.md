@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...C# learning
 - 🌱 I’m currently learning ...the basics-It is said that in order to become a great coder, the basics must be learned well!
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...epoitras@gmail.com
+- 
 
 <!---
 Ed2353/Ed2353 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
